@@ -2,7 +2,7 @@
    "basics": {
      "name": "Zakaria MAZOUZ",
      "label": "Étudiant en BTS SIO - Option SLAM",
-     "image": "/me_avatar.jpg",
+     "image": "/portfolio/me_avatar.jpg",
      "email": "mazouzakaria.123@gmail.com",
      "phone": "0618854954",
      "url": "https://zakaria-mazouz.dev",
@@ -69,7 +69,7 @@
    "volunteer": [],
    "education": [
      {
-       "institution": "École d’Informatique IRIS Paris",
+       "institution": "École d'Informatique IRIS Paris",
        "url": "https://iris.com",
        "area": "BTS SIO - Option SLAM",
        "studyType": "Diplôme",
